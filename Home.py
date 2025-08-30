@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-# streamlit run app.py
+# streamlit run Home.py
 # http://localhost:8501
 
 st.set_page_config(layout="wide")
